@@ -1,0 +1,16 @@
+h1, h2, p {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+}
+#gigante {
+  padding-left: 1;
+  padding-right: 1;
+}
+#vascu {
+  justify-content: center;
+  display: flex;
+  gap: 15px;
+}
